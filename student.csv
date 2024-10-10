@@ -1,1004 +1,1001 @@
 ID,NAME,STANDARD,ROLL NO,SUBJECT
-1,John Doe,10th,1,Mathematics
-2,Jane Smith,10th,2,Science
-3,Alice Johnson,10th,3,English
-4,Student 1,10th,1,Science
-5,Student 2,10th,2,English
-6,Student 3,10th,3,History
-7,Student 4,10th,4,Geography
-8,Student 5,10th,5,Mathematics
-9,Student 6,10th,6,Science
-10,Student 7,10th,7,English
-11,Student 8,10th,8,History
-12,Student 9,10th,9,Geography
-13,Student 10,10th,10,Mathematics
-14,Student 11,10th,11,Science
-15,Student 12,10th,12,English
-16,Student 13,10th,13,History
-17,Student 14,10th,14,Geography
-18,Student 15,10th,15,Mathematics
-19,Student 16,10th,16,Science
-20,Student 17,10th,17,English
-21,Student 18,10th,18,History
-22,Student 19,10th,19,Geography
-23,Student 20,10th,20,Mathematics
-24,Student 21,10th,21,Science
-25,Student 22,10th,22,English
-26,Student 23,10th,23,History
-27,Student 24,10th,24,Geography
-28,Student 25,10th,25,Mathematics
-29,Student 26,10th,26,Science
-30,Student 27,10th,27,English
-31,Student 28,10th,28,History
-32,Student 29,10th,29,Geography
-33,Student 30,10th,30,Mathematics
-34,Student 31,10th,31,Science
-35,Student 32,10th,32,English
-36,Student 33,10th,33,History
-37,Student 34,10th,34,Geography
-38,Student 35,10th,35,Mathematics
-39,Student 36,10th,36,Science
-40,Student 37,10th,37,English
-41,Student 38,10th,38,History
-42,Student 39,10th,39,Geography
-43,Student 40,10th,40,Mathematics
-44,Student 41,10th,41,Science
-45,Student 42,10th,42,English
-46,Student 43,10th,43,History
-47,Student 44,10th,44,Geography
-48,Student 45,10th,45,Mathematics
-49,Student 46,10th,46,Science
-50,Student 47,10th,47,English
-51,Student 48,10th,48,History
-52,Student 49,10th,49,Geography
-53,Student 50,10th,50,Mathematics
-54,Student 51,10th,51,Science
-55,Student 52,10th,52,English
-56,Student 53,10th,53,History
-57,Student 54,10th,54,Geography
-58,Student 55,10th,55,Mathematics
-59,Student 56,10th,56,Science
-60,Student 57,10th,57,English
-61,Student 58,10th,58,History
-62,Student 59,10th,59,Geography
-63,Student 60,10th,60,Mathematics
-64,Student 61,10th,61,Science
-65,Student 62,10th,62,English
-66,Student 63,10th,63,History
-67,Student 64,10th,64,Geography
-68,Student 65,10th,65,Mathematics
-69,Student 66,10th,66,Science
-70,Student 67,10th,67,English
-71,Student 68,10th,68,History
-72,Student 69,10th,69,Geography
-73,Student 70,10th,70,Mathematics
-74,Student 71,10th,71,Science
-75,Student 72,10th,72,English
-76,Student 73,10th,73,History
-77,Student 74,10th,74,Geography
-78,Student 75,10th,75,Mathematics
-79,Student 76,10th,76,Science
-80,Student 77,10th,77,English
-81,Student 78,10th,78,History
-82,Student 79,10th,79,Geography
-83,Student 80,10th,80,Mathematics
-84,Student 81,10th,81,Science
-85,Student 82,10th,82,English
-86,Student 83,10th,83,History
-87,Student 84,10th,84,Geography
-88,Student 85,10th,85,Mathematics
-89,Student 86,10th,86,Science
-90,Student 87,10th,87,English
-91,Student 88,10th,88,History
-92,Student 89,10th,89,Geography
-93,Student 90,10th,90,Mathematics
-94,Student 91,10th,91,Science
-95,Student 92,10th,92,English
-96,Student 93,10th,93,History
-97,Student 94,10th,94,Geography
-98,Student 95,10th,95,Mathematics
-99,Student 96,10th,96,Science
-100,Student 97,10th,97,English
-101,Student 98,10th,98,History
-102,Student 99,10th,99,Geography
-103,Student 100,10th,100,Mathematics
-104,Student 101,10th,101,Science
-105,Student 102,10th,102,English
-106,Student 103,10th,103,History
-107,Student 104,10th,104,Geography
-108,Student 105,10th,105,Mathematics
-109,Student 106,10th,106,Science
-110,Student 107,10th,107,English
-111,Student 108,10th,108,History
-112,Student 109,10th,109,Geography
-113,Student 110,10th,110,Mathematics
-114,Student 111,10th,111,Science
-115,Student 112,10th,112,English
-116,Student 113,10th,113,History
-117,Student 114,10th,114,Geography
-118,Student 115,10th,115,Mathematics
-119,Student 116,10th,116,Science
-120,Student 117,10th,117,English
-121,Student 118,10th,118,History
-122,Student 119,10th,119,Geography
-123,Student 120,10th,120,Mathematics
-124,Student 121,10th,121,Science
-125,Student 122,10th,122,English
-126,Student 123,10th,123,History
-127,Student 124,10th,124,Geography
-128,Student 125,10th,125,Mathematics
-129,Student 126,10th,126,Science
-130,Student 127,10th,127,English
-131,Student 128,10th,128,History
-132,Student 129,10th,129,Geography
-133,Student 130,10th,130,Mathematics
-134,Student 131,10th,131,Science
-135,Student 132,10th,132,English
-136,Student 133,10th,133,History
-137,Student 134,10th,134,Geography
-138,Student 135,10th,135,Mathematics
-139,Student 136,10th,136,Science
-140,Student 137,10th,137,English
-141,Student 138,10th,138,History
-142,Student 139,10th,139,Geography
-143,Student 140,10th,140,Mathematics
-144,Student 141,10th,141,Science
-145,Student 142,10th,142,English
-146,Student 143,10th,143,History
-147,Student 144,10th,144,Geography
-148,Student 145,10th,145,Mathematics
-149,Student 146,10th,146,Science
-150,Student 147,10th,147,English
-151,Student 148,10th,148,History
-152,Student 149,10th,149,Geography
-153,Student 150,10th,150,Mathematics
-154,Student 151,10th,151,Science
-155,Student 152,10th,152,English
-156,Student 153,10th,153,History
-157,Student 154,10th,154,Geography
-158,Student 155,10th,155,Mathematics
-159,Student 156,10th,156,Science
-160,Student 157,10th,157,English
-161,Student 158,10th,158,History
-162,Student 159,10th,159,Geography
-163,Student 160,10th,160,Mathematics
-164,Student 161,10th,161,Science
-165,Student 162,10th,162,English
-166,Student 163,10th,163,History
-167,Student 164,10th,164,Geography
-168,Student 165,10th,165,Mathematics
-169,Student 166,10th,166,Science
-170,Student 167,10th,167,English
-171,Student 168,10th,168,History
-172,Student 169,10th,169,Geography
-173,Student 170,10th,170,Mathematics
-174,Student 171,10th,171,Science
-175,Student 172,10th,172,English
-176,Student 173,10th,173,History
-177,Student 174,10th,174,Geography
-178,Student 175,10th,175,Mathematics
-179,Student 176,10th,176,Science
-180,Student 177,10th,177,English
-181,Student 178,10th,178,History
-182,Student 179,10th,179,Geography
-183,Student 180,10th,180,Mathematics
-184,Student 181,10th,181,Science
-185,Student 182,10th,182,English
-186,Student 183,10th,183,History
-187,Student 184,10th,184,Geography
-188,Student 185,10th,185,Mathematics
-189,Student 186,10th,186,Science
-190,Student 187,10th,187,English
-191,Student 188,10th,188,History
-192,Student 189,10th,189,Geography
-193,Student 190,10th,190,Mathematics
-194,Student 191,10th,191,Science
-195,Student 192,10th,192,English
-196,Student 193,10th,193,History
-197,Student 194,10th,194,Geography
-198,Student 195,10th,195,Mathematics
-199,Student 196,10th,196,Science
-200,Student 197,10th,197,English
-201,Student 198,10th,198,History
-202,Student 199,10th,199,Geography
-203,Student 200,10th,200,Mathematics
-204,Student 201,10th,201,Science
-205,Student 202,10th,202,English
-206,Student 203,10th,203,History
-207,Student 204,10th,204,Geography
-208,Student 205,10th,205,Mathematics
-209,Student 206,10th,206,Science
-210,Student 207,10th,207,English
-211,Student 208,10th,208,History
-212,Student 209,10th,209,Geography
-213,Student 210,10th,210,Mathematics
-214,Student 211,10th,211,Science
-215,Student 212,10th,212,English
-216,Student 213,10th,213,History
-217,Student 214,10th,214,Geography
-218,Student 215,10th,215,Mathematics
-219,Student 216,10th,216,Science
-220,Student 217,10th,217,English
-221,Student 218,10th,218,History
-222,Student 219,10th,219,Geography
-223,Student 220,10th,220,Mathematics
-224,Student 221,10th,221,Science
-225,Student 222,10th,222,English
-226,Student 223,10th,223,History
-227,Student 224,10th,224,Geography
-228,Student 225,10th,225,Mathematics
-229,Student 226,10th,226,Science
-230,Student 227,10th,227,English
-231,Student 228,10th,228,History
-232,Student 229,10th,229,Geography
-233,Student 230,10th,230,Mathematics
-234,Student 231,10th,231,Science
-235,Student 232,10th,232,English
-236,Student 233,10th,233,History
-237,Student 234,10th,234,Geography
-238,Student 235,10th,235,Mathematics
-239,Student 236,10th,236,Science
-240,Student 237,10th,237,English
-241,Student 238,10th,238,History
-242,Student 239,10th,239,Geography
-243,Student 240,10th,240,Mathematics
-244,Student 241,10th,241,Science
-245,Student 242,10th,242,English
-246,Student 243,10th,243,History
-247,Student 244,10th,244,Geography
-248,Student 245,10th,245,Mathematics
-249,Student 246,10th,246,Science
-250,Student 247,10th,247,English
-251,Student 248,10th,248,History
-252,Student 249,10th,249,Geography
-253,Student 250,10th,250,Mathematics
-254,Student 251,10th,251,Science
-255,Student 252,10th,252,English
-256,Student 253,10th,253,History
-257,Student 254,10th,254,Geography
-258,Student 255,10th,255,Mathematics
-259,Student 256,10th,256,Science
-260,Student 257,10th,257,English
-261,Student 258,10th,258,History
-262,Student 259,10th,259,Geography
-263,Student 260,10th,260,Mathematics
-264,Student 261,10th,261,Science
-265,Student 262,10th,262,English
-266,Student 263,10th,263,History
-267,Student 264,10th,264,Geography
-268,Student 265,10th,265,Mathematics
-269,Student 266,10th,266,Science
-270,Student 267,10th,267,English
-271,Student 268,10th,268,History
-272,Student 269,10th,269,Geography
-273,Student 270,10th,270,Mathematics
-274,Student 271,10th,271,Science
-275,Student 272,10th,272,English
-276,Student 273,10th,273,History
-277,Student 274,10th,274,Geography
-278,Student 275,10th,275,Mathematics
-279,Student 276,10th,276,Science
-280,Student 277,10th,277,English
-281,Student 278,10th,278,History
-282,Student 279,10th,279,Geography
-283,Student 280,10th,280,Mathematics
-284,Student 281,10th,281,Science
-285,Student 282,10th,282,English
-286,Student 283,10th,283,History
-287,Student 284,10th,284,Geography
-288,Student 285,10th,285,Mathematics
-289,Student 286,10th,286,Science
-290,Student 287,10th,287,English
-291,Student 288,10th,288,History
-292,Student 289,10th,289,Geography
-293,Student 290,10th,290,Mathematics
-294,Student 291,10th,291,Science
-295,Student 292,10th,292,English
-296,Student 293,10th,293,History
-297,Student 294,10th,294,Geography
-298,Student 295,10th,295,Mathematics
-299,Student 296,10th,296,Science
-300,Student 297,10th,297,English
-301,Student 298,10th,298,History
-302,Student 299,10th,299,Geography
-303,Student 300,10th,300,Mathematics
-304,Student 301,10th,301,Science
-305,Student 302,10th,302,English
-306,Student 303,10th,303,History
-307,Student 304,10th,304,Geography
-308,Student 305,10th,305,Mathematics
-309,Student 306,10th,306,Science
-310,Student 307,10th,307,English
-311,Student 308,10th,308,History
-312,Student 309,10th,309,Geography
-313,Student 310,10th,310,Mathematics
-314,Student 311,10th,311,Science
-315,Student 312,10th,312,English
-316,Student 313,10th,313,History
-317,Student 314,10th,314,Geography
-318,Student 315,10th,315,Mathematics
-319,Student 316,10th,316,Science
-320,Student 317,10th,317,English
-321,Student 318,10th,318,History
-322,Student 319,10th,319,Geography
-323,Student 320,10th,320,Mathematics
-324,Student 321,10th,321,Science
-325,Student 322,10th,322,English
-326,Student 323,10th,323,History
-327,Student 324,10th,324,Geography
-328,Student 325,10th,325,Mathematics
-329,Student 326,10th,326,Science
-330,Student 327,10th,327,English
-331,Student 328,10th,328,History
-332,Student 329,10th,329,Geography
-333,Student 330,10th,330,Mathematics
-334,Student 331,10th,331,Science
-335,Student 332,10th,332,English
-336,Student 333,10th,333,History
-337,Student 334,10th,334,Geography
-338,Student 335,10th,335,Mathematics
-339,Student 336,10th,336,Science
-340,Student 337,10th,337,English
-341,Student 338,10th,338,History
-342,Student 339,10th,339,Geography
-343,Student 340,10th,340,Mathematics
-344,Student 341,10th,341,Science
-345,Student 342,10th,342,English
-346,Student 343,10th,343,History
-347,Student 344,10th,344,Geography
-348,Student 345,10th,345,Mathematics
-349,Student 346,10th,346,Science
-350,Student 347,10th,347,English
-351,Student 348,10th,348,History
-352,Student 349,10th,349,Geography
-353,Student 350,10th,350,Mathematics
-354,Student 351,10th,351,Science
-355,Student 352,10th,352,English
-356,Student 353,10th,353,History
-357,Student 354,10th,354,Geography
-358,Student 355,10th,355,Mathematics
-359,Student 356,10th,356,Science
-360,Student 357,10th,357,English
-361,Student 358,10th,358,History
-362,Student 359,10th,359,Geography
-363,Student 360,10th,360,Mathematics
-364,Student 361,10th,361,Science
-365,Student 362,10th,362,English
-366,Student 363,10th,363,History
-367,Student 364,10th,364,Geography
-368,Student 365,10th,365,Mathematics
-369,Student 366,10th,366,Science
-370,Student 367,10th,367,English
-371,Student 368,10th,368,History
-372,Student 369,10th,369,Geography
-373,Student 370,10th,370,Mathematics
-374,Student 371,10th,371,Science
-375,Student 372,10th,372,English
-376,Student 373,10th,373,History
-377,Student 374,10th,374,Geography
-378,Student 375,10th,375,Mathematics
-379,Student 376,10th,376,Science
-380,Student 377,10th,377,English
-381,Student 378,10th,378,History
-382,Student 379,10th,379,Geography
-383,Student 380,10th,380,Mathematics
-384,Student 381,10th,381,Science
-385,Student 382,10th,382,English
-386,Student 383,10th,383,History
-387,Student 384,10th,384,Geography
-388,Student 385,10th,385,Mathematics
-389,Student 386,10th,386,Science
-390,Student 387,10th,387,English
-391,Student 388,10th,388,History
-392,Student 389,10th,389,Geography
-393,Student 390,10th,390,Mathematics
-394,Student 391,10th,391,Science
-395,Student 392,10th,392,English
-396,Student 393,10th,393,History
-397,Student 394,10th,394,Geography
-398,Student 395,10th,395,Mathematics
-399,Student 396,10th,396,Science
-400,Student 397,10th,397,English
-401,Student 398,10th,398,History
-402,Student 399,10th,399,Geography
-403,Student 400,10th,400,Mathematics
-404,Student 401,10th,401,Science
-405,Student 402,10th,402,English
-406,Student 403,10th,403,History
-407,Student 404,10th,404,Geography
-408,Student 405,10th,405,Mathematics
-409,Student 406,10th,406,Science
-410,Student 407,10th,407,English
-411,Student 408,10th,408,History
-412,Student 409,10th,409,Geography
-413,Student 410,10th,410,Mathematics
-414,Student 411,10th,411,Science
-415,Student 412,10th,412,English
-416,Student 413,10th,413,History
-417,Student 414,10th,414,Geography
-418,Student 415,10th,415,Mathematics
-419,Student 416,10th,416,Science
-420,Student 417,10th,417,English
-421,Student 418,10th,418,History
-422,Student 419,10th,419,Geography
-423,Student 420,10th,420,Mathematics
-424,Student 421,10th,421,Science
-425,Student 422,10th,422,English
-426,Student 423,10th,423,History
-427,Student 424,10th,424,Geography
-428,Student 425,10th,425,Mathematics
-429,Student 426,10th,426,Science
-430,Student 427,10th,427,English
-431,Student 428,10th,428,History
-432,Student 429,10th,429,Geography
-433,Student 430,10th,430,Mathematics
-434,Student 431,10th,431,Science
-435,Student 432,10th,432,English
-436,Student 433,10th,433,History
-437,Student 434,10th,434,Geography
-438,Student 435,10th,435,Mathematics
-439,Student 436,10th,436,Science
-440,Student 437,10th,437,English
-441,Student 438,10th,438,History
-442,Student 439,10th,439,Geography
-443,Student 440,10th,440,Mathematics
-444,Student 441,10th,441,Science
-445,Student 442,10th,442,English
-446,Student 443,10th,443,History
-447,Student 444,10th,444,Geography
-448,Student 445,10th,445,Mathematics
-449,Student 446,10th,446,Science
-450,Student 447,10th,447,English
-451,Student 448,10th,448,History
-452,Student 449,10th,449,Geography
-453,Student 450,10th,450,Mathematics
-454,Student 451,10th,451,Science
-455,Student 452,10th,452,English
-456,Student 453,10th,453,History
-457,Student 454,10th,454,Geography
-458,Student 455,10th,455,Mathematics
-459,Student 456,10th,456,Science
-460,Student 457,10th,457,English
-461,Student 458,10th,458,History
-462,Student 459,10th,459,Geography
-463,Student 460,10th,460,Mathematics
-464,Student 461,10th,461,Science
-465,Student 462,10th,462,English
-466,Student 463,10th,463,History
-467,Student 464,10th,464,Geography
-468,Student 465,10th,465,Mathematics
-469,Student 466,10th,466,Science
-470,Student 467,10th,467,English
-471,Student 468,10th,468,History
-472,Student 469,10th,469,Geography
-473,Student 470,10th,470,Mathematics
-474,Student 471,10th,471,Science
-475,Student 472,10th,472,English
-476,Student 473,10th,473,History
-477,Student 474,10th,474,Geography
-478,Student 475,10th,475,Mathematics
-479,Student 476,10th,476,Science
-480,Student 477,10th,477,English
-481,Student 478,10th,478,History
-482,Student 479,10th,479,Geography
-483,Student 480,10th,480,Mathematics
-484,Student 481,10th,481,Science
-485,Student 482,10th,482,English
-486,Student 483,10th,483,History
-487,Student 484,10th,484,Geography
-488,Student 485,10th,485,Mathematics
-489,Student 486,10th,486,Science
-490,Student 487,10th,487,English
-491,Student 488,10th,488,History
-492,Student 489,10th,489,Geography
-493,Student 490,10th,490,Mathematics
-494,Student 491,10th,491,Science
-495,Student 492,10th,492,English
-496,Student 493,10th,493,History
-497,Student 494,10th,494,Geography
-498,Student 495,10th,495,Mathematics
-499,Student 496,10th,496,Science
-500,Student 497,10th,497,English
-501,Student 498,10th,498,History
-502,Student 499,10th,499,Geography
-503,Student 500,10th,500,Mathematics
-504,Student 501,10th,501,Science
-505,Student 502,10th,502,English
-506,Student 503,10th,503,History
-507,Student 504,10th,504,Geography
-508,Student 505,10th,505,Mathematics
-509,Student 506,10th,506,Science
-510,Student 507,10th,507,English
-511,Student 508,10th,508,History
-512,Student 509,10th,509,Geography
-513,Student 510,10th,510,Mathematics
-514,Student 511,10th,511,Science
-515,Student 512,10th,512,English
-516,Student 513,10th,513,History
-517,Student 514,10th,514,Geography
-518,Student 515,10th,515,Mathematics
-519,Student 516,10th,516,Science
-520,Student 517,10th,517,English
-521,Student 518,10th,518,History
-522,Student 519,10th,519,Geography
-523,Student 520,10th,520,Mathematics
-524,Student 521,10th,521,Science
-525,Student 522,10th,522,English
-526,Student 523,10th,523,History
-527,Student 524,10th,524,Geography
-528,Student 525,10th,525,Mathematics
-529,Student 526,10th,526,Science
-530,Student 527,10th,527,English
-531,Student 528,10th,528,History
-532,Student 529,10th,529,Geography
-533,Student 530,10th,530,Mathematics
-534,Student 531,10th,531,Science
-535,Student 532,10th,532,English
-536,Student 533,10th,533,History
-537,Student 534,10th,534,Geography
-538,Student 535,10th,535,Mathematics
-539,Student 536,10th,536,Science
-540,Student 537,10th,537,English
-541,Student 538,10th,538,History
-542,Student 539,10th,539,Geography
-543,Student 540,10th,540,Mathematics
-544,Student 541,10th,541,Science
-545,Student 542,10th,542,English
-546,Student 543,10th,543,History
-547,Student 544,10th,544,Geography
-548,Student 545,10th,545,Mathematics
-549,Student 546,10th,546,Science
-550,Student 547,10th,547,English
-551,Student 548,10th,548,History
-552,Student 549,10th,549,Geography
-553,Student 550,10th,550,Mathematics
-554,Student 551,10th,551,Science
-555,Student 552,10th,552,English
-556,Student 553,10th,553,History
-557,Student 554,10th,554,Geography
-558,Student 555,10th,555,Mathematics
-559,Student 556,10th,556,Science
-560,Student 557,10th,557,English
-561,Student 558,10th,558,History
-562,Student 559,10th,559,Geography
-563,Student 560,10th,560,Mathematics
-564,Student 561,10th,561,Science
-565,Student 562,10th,562,English
-566,Student 563,10th,563,History
-567,Student 564,10th,564,Geography
-568,Student 565,10th,565,Mathematics
-569,Student 566,10th,566,Science
-570,Student 567,10th,567,English
-571,Student 568,10th,568,History
-572,Student 569,10th,569,Geography
-573,Student 570,10th,570,Mathematics
-574,Student 571,10th,571,Science
-575,Student 572,10th,572,English
-576,Student 573,10th,573,History
-577,Student 574,10th,574,Geography
-578,Student 575,10th,575,Mathematics
-579,Student 576,10th,576,Science
-580,Student 577,10th,577,English
-581,Student 578,10th,578,History
-582,Student 579,10th,579,Geography
-583,Student 580,10th,580,Mathematics
-584,Student 581,10th,581,Science
-585,Student 582,10th,582,English
-586,Student 583,10th,583,History
-587,Student 584,10th,584,Geography
-588,Student 585,10th,585,Mathematics
-589,Student 586,10th,586,Science
-590,Student 587,10th,587,English
-591,Student 588,10th,588,History
-592,Student 589,10th,589,Geography
-593,Student 590,10th,590,Mathematics
-594,Student 591,10th,591,Science
-595,Student 592,10th,592,English
-596,Student 593,10th,593,History
-597,Student 594,10th,594,Geography
-598,Student 595,10th,595,Mathematics
-599,Student 596,10th,596,Science
-600,Student 597,10th,597,English
-601,Student 598,10th,598,History
-602,Student 599,10th,599,Geography
-603,Student 600,10th,600,Mathematics
-604,Student 601,10th,601,Science
-605,Student 602,10th,602,English
-606,Student 603,10th,603,History
-607,Student 604,10th,604,Geography
-608,Student 605,10th,605,Mathematics
-609,Student 606,10th,606,Science
-610,Student 607,10th,607,English
-611,Student 608,10th,608,History
-612,Student 609,10th,609,Geography
-613,Student 610,10th,610,Mathematics
-614,Student 611,10th,611,Science
-615,Student 612,10th,612,English
-616,Student 613,10th,613,History
-617,Student 614,10th,614,Geography
-618,Student 615,10th,615,Mathematics
-619,Student 616,10th,616,Science
-620,Student 617,10th,617,English
-621,Student 618,10th,618,History
-622,Student 619,10th,619,Geography
-623,Student 620,10th,620,Mathematics
-624,Student 621,10th,621,Science
-625,Student 622,10th,622,English
-626,Student 623,10th,623,History
-627,Student 624,10th,624,Geography
-628,Student 625,10th,625,Mathematics
-629,Student 626,10th,626,Science
-630,Student 627,10th,627,English
-631,Student 628,10th,628,History
-632,Student 629,10th,629,Geography
-633,Student 630,10th,630,Mathematics
-634,Student 631,10th,631,Science
-635,Student 632,10th,632,English
-636,Student 633,10th,633,History
-637,Student 634,10th,634,Geography
-638,Student 635,10th,635,Mathematics
-639,Student 636,10th,636,Science
-640,Student 637,10th,637,English
-641,Student 638,10th,638,History
-642,Student 639,10th,639,Geography
-643,Student 640,10th,640,Mathematics
-644,Student 641,10th,641,Science
-645,Student 642,10th,642,English
-646,Student 643,10th,643,History
-647,Student 644,10th,644,Geography
-648,Student 645,10th,645,Mathematics
-649,Student 646,10th,646,Science
-650,Student 647,10th,647,English
-651,Student 648,10th,648,History
-652,Student 649,10th,649,Geography
-653,Student 650,10th,650,Mathematics
-654,Student 651,10th,651,Science
-655,Student 652,10th,652,English
-656,Student 653,10th,653,History
-657,Student 654,10th,654,Geography
-658,Student 655,10th,655,Mathematics
-659,Student 656,10th,656,Science
-660,Student 657,10th,657,English
-661,Student 658,10th,658,History
-662,Student 659,10th,659,Geography
-663,Student 660,10th,660,Mathematics
-664,Student 661,10th,661,Science
-665,Student 662,10th,662,English
-666,Student 663,10th,663,History
-667,Student 664,10th,664,Geography
-668,Student 665,10th,665,Mathematics
-669,Student 666,10th,666,Science
-670,Student 667,10th,667,English
-671,Student 668,10th,668,History
-672,Student 669,10th,669,Geography
-673,Student 670,10th,670,Mathematics
-674,Student 671,10th,671,Science
-675,Student 672,10th,672,English
-676,Student 673,10th,673,History
-677,Student 674,10th,674,Geography
-678,Student 675,10th,675,Mathematics
-679,Student 676,10th,676,Science
-680,Student 677,10th,677,English
-681,Student 678,10th,678,History
-682,Student 679,10th,679,Geography
-683,Student 680,10th,680,Mathematics
-684,Student 681,10th,681,Science
-685,Student 682,10th,682,English
-686,Student 683,10th,683,History
-687,Student 684,10th,684,Geography
-688,Student 685,10th,685,Mathematics
-689,Student 686,10th,686,Science
-690,Student 687,10th,687,English
-691,Student 688,10th,688,History
-692,Student 689,10th,689,Geography
-693,Student 690,10th,690,Mathematics
-694,Student 691,10th,691,Science
-695,Student 692,10th,692,English
-696,Student 693,10th,693,History
-697,Student 694,10th,694,Geography
-698,Student 695,10th,695,Mathematics
-699,Student 696,10th,696,Science
-700,Student 697,10th,697,English
-701,Student 698,10th,698,History
-702,Student 699,10th,699,Geography
-703,Student 700,10th,700,Mathematics
-704,Student 701,10th,701,Science
-705,Student 702,10th,702,English
-706,Student 703,10th,703,History
-707,Student 704,10th,704,Geography
-708,Student 705,10th,705,Mathematics
-709,Student 706,10th,706,Science
-710,Student 707,10th,707,English
-711,Student 708,10th,708,History
-712,Student 709,10th,709,Geography
-713,Student 710,10th,710,Mathematics
-714,Student 711,10th,711,Science
-715,Student 712,10th,712,English
-716,Student 713,10th,713,History
-717,Student 714,10th,714,Geography
-718,Student 715,10th,715,Mathematics
-719,Student 716,10th,716,Science
-720,Student 717,10th,717,English
-721,Student 718,10th,718,History
-722,Student 719,10th,719,Geography
-723,Student 720,10th,720,Mathematics
-724,Student 721,10th,721,Science
-725,Student 722,10th,722,English
-726,Student 723,10th,723,History
-727,Student 724,10th,724,Geography
-728,Student 725,10th,725,Mathematics
-729,Student 726,10th,726,Science
-730,Student 727,10th,727,English
-731,Student 728,10th,728,History
-732,Student 729,10th,729,Geography
-733,Student 730,10th,730,Mathematics
-734,Student 731,10th,731,Science
-735,Student 732,10th,732,English
-736,Student 733,10th,733,History
-737,Student 734,10th,734,Geography
-738,Student 735,10th,735,Mathematics
-739,Student 736,10th,736,Science
-740,Student 737,10th,737,English
-741,Student 738,10th,738,History
-742,Student 739,10th,739,Geography
-743,Student 740,10th,740,Mathematics
-744,Student 741,10th,741,Science
-745,Student 742,10th,742,English
-746,Student 743,10th,743,History
-747,Student 744,10th,744,Geography
-748,Student 745,10th,745,Mathematics
-749,Student 746,10th,746,Science
-750,Student 747,10th,747,English
-751,Student 748,10th,748,History
-752,Student 749,10th,749,Geography
-753,Student 750,10th,750,Mathematics
-754,Student 751,10th,751,Science
-755,Student 752,10th,752,English
-756,Student 753,10th,753,History
-757,Student 754,10th,754,Geography
-758,Student 755,10th,755,Mathematics
-759,Student 756,10th,756,Science
-760,Student 757,10th,757,English
-761,Student 758,10th,758,History
-762,Student 759,10th,759,Geography
-763,Student 760,10th,760,Mathematics
-764,Student 761,10th,761,Science
-765,Student 762,10th,762,English
-766,Student 763,10th,763,History
-767,Student 764,10th,764,Geography
-768,Student 765,10th,765,Mathematics
-769,Student 766,10th,766,Science
-770,Student 767,10th,767,English
-771,Student 768,10th,768,History
-772,Student 769,10th,769,Geography
-773,Student 770,10th,770,Mathematics
-774,Student 771,10th,771,Science
-775,Student 772,10th,772,English
-776,Student 773,10th,773,History
-777,Student 774,10th,774,Geography
-778,Student 775,10th,775,Mathematics
-779,Student 776,10th,776,Science
-780,Student 777,10th,777,English
-781,Student 778,10th,778,History
-782,Student 779,10th,779,Geography
-783,Student 780,10th,780,Mathematics
-784,Student 781,10th,781,Science
-785,Student 782,10th,782,English
-786,Student 783,10th,783,History
-787,Student 784,10th,784,Geography
-788,Student 785,10th,785,Mathematics
-789,Student 786,10th,786,Science
-790,Student 787,10th,787,English
-791,Student 788,10th,788,History
-792,Student 789,10th,789,Geography
-793,Student 790,10th,790,Mathematics
-794,Student 791,10th,791,Science
-795,Student 792,10th,792,English
-796,Student 793,10th,793,History
-797,Student 794,10th,794,Geography
-798,Student 795,10th,795,Mathematics
-799,Student 796,10th,796,Science
-800,Student 797,10th,797,English
-801,Student 798,10th,798,History
-802,Student 799,10th,799,Geography
-803,Student 800,10th,800,Mathematics
-804,Student 801,10th,801,Science
-805,Student 802,10th,802,English
-806,Student 803,10th,803,History
-807,Student 804,10th,804,Geography
-808,Student 805,10th,805,Mathematics
-809,Student 806,10th,806,Science
-810,Student 807,10th,807,English
-811,Student 808,10th,808,History
-812,Student 809,10th,809,Geography
-813,Student 810,10th,810,Mathematics
-814,Student 811,10th,811,Science
-815,Student 812,10th,812,English
-816,Student 813,10th,813,History
-817,Student 814,10th,814,Geography
-818,Student 815,10th,815,Mathematics
-819,Student 816,10th,816,Science
-820,Student 817,10th,817,English
-821,Student 818,10th,818,History
-822,Student 819,10th,819,Geography
-823,Student 820,10th,820,Mathematics
-824,Student 821,10th,821,Science
-825,Student 822,10th,822,English
-826,Student 823,10th,823,History
-827,Student 824,10th,824,Geography
-828,Student 825,10th,825,Mathematics
-829,Student 826,10th,826,Science
-830,Student 827,10th,827,English
-831,Student 828,10th,828,History
-832,Student 829,10th,829,Geography
-833,Student 830,10th,830,Mathematics
-834,Student 831,10th,831,Science
-835,Student 832,10th,832,English
-836,Student 833,10th,833,History
-837,Student 834,10th,834,Geography
-838,Student 835,10th,835,Mathematics
-839,Student 836,10th,836,Science
-840,Student 837,10th,837,English
-841,Student 838,10th,838,History
-842,Student 839,10th,839,Geography
-843,Student 840,10th,840,Mathematics
-844,Student 841,10th,841,Science
-845,Student 842,10th,842,English
-846,Student 843,10th,843,History
-847,Student 844,10th,844,Geography
-848,Student 845,10th,845,Mathematics
-849,Student 846,10th,846,Science
-850,Student 847,10th,847,English
-851,Student 848,10th,848,History
-852,Student 849,10th,849,Geography
-853,Student 850,10th,850,Mathematics
-854,Student 851,10th,851,Science
-855,Student 852,10th,852,English
-856,Student 853,10th,853,History
-857,Student 854,10th,854,Geography
-858,Student 855,10th,855,Mathematics
-859,Student 856,10th,856,Science
-860,Student 857,10th,857,English
-861,Student 858,10th,858,History
-862,Student 859,10th,859,Geography
-863,Student 860,10th,860,Mathematics
-864,Student 861,10th,861,Science
-865,Student 862,10th,862,English
-866,Student 863,10th,863,History
-867,Student 864,10th,864,Geography
-868,Student 865,10th,865,Mathematics
-869,Student 866,10th,866,Science
-870,Student 867,10th,867,English
-871,Student 868,10th,868,History
-872,Student 869,10th,869,Geography
-873,Student 870,10th,870,Mathematics
-874,Student 871,10th,871,Science
-875,Student 872,10th,872,English
-876,Student 873,10th,873,History
-877,Student 874,10th,874,Geography
-878,Student 875,10th,875,Mathematics
-879,Student 876,10th,876,Science
-880,Student 877,10th,877,English
-881,Student 878,10th,878,History
-882,Student 879,10th,879,Geography
-883,Student 880,10th,880,Mathematics
-884,Student 881,10th,881,Science
-885,Student 882,10th,882,English
-886,Student 883,10th,883,History
-887,Student 884,10th,884,Geography
-888,Student 885,10th,885,Mathematics
-889,Student 886,10th,886,Science
-890,Student 887,10th,887,English
-891,Student 888,10th,888,History
-892,Student 889,10th,889,Geography
-893,Student 890,10th,890,Mathematics
-894,Student 891,10th,891,Science
-895,Student 892,10th,892,English
-896,Student 893,10th,893,History
-897,Student 894,10th,894,Geography
-898,Student 895,10th,895,Mathematics
-899,Student 896,10th,896,Science
-900,Student 897,10th,897,English
-901,Student 898,10th,898,History
-902,Student 899,10th,899,Geography
-903,Student 900,10th,900,Mathematics
-904,Student 901,10th,901,Science
-905,Student 902,10th,902,English
-906,Student 903,10th,903,History
-907,Student 904,10th,904,Geography
-908,Student 905,10th,905,Mathematics
-909,Student 906,10th,906,Science
-910,Student 907,10th,907,English
-911,Student 908,10th,908,History
-912,Student 909,10th,909,Geography
-913,Student 910,10th,910,Mathematics
-914,Student 911,10th,911,Science
-915,Student 912,10th,912,English
-916,Student 913,10th,913,History
-917,Student 914,10th,914,Geography
-918,Student 915,10th,915,Mathematics
-919,Student 916,10th,916,Science
-920,Student 917,10th,917,English
-921,Student 918,10th,918,History
-922,Student 919,10th,919,Geography
-923,Student 920,10th,920,Mathematics
-924,Student 921,10th,921,Science
-925,Student 922,10th,922,English
-926,Student 923,10th,923,History
-927,Student 924,10th,924,Geography
-928,Student 925,10th,925,Mathematics
-929,Student 926,10th,926,Science
-930,Student 927,10th,927,English
-931,Student 928,10th,928,History
-932,Student 929,10th,929,Geography
-933,Student 930,10th,930,Mathematics
-934,Student 931,10th,931,Science
-935,Student 932,10th,932,English
-936,Student 933,10th,933,History
-937,Student 934,10th,934,Geography
-938,Student 935,10th,935,Mathematics
-939,Student 936,10th,936,Science
-940,Student 937,10th,937,English
-941,Student 938,10th,938,History
-942,Student 939,10th,939,Geography
-943,Student 940,10th,940,Mathematics
-944,Student 941,10th,941,Science
-945,Student 942,10th,942,English
-946,Student 943,10th,943,History
-947,Student 944,10th,944,Geography
-948,Student 945,10th,945,Mathematics
-949,Student 946,10th,946,Science
-950,Student 947,10th,947,English
-951,Student 948,10th,948,History
-952,Student 949,10th,949,Geography
-953,Student 950,10th,950,Mathematics
-954,Student 951,10th,951,Science
-955,Student 952,10th,952,English
-956,Student 953,10th,953,History
-957,Student 954,10th,954,Geography
-958,Student 955,10th,955,Mathematics
-959,Student 956,10th,956,Science
-960,Student 957,10th,957,English
-961,Student 958,10th,958,History
-962,Student 959,10th,959,Geography
-963,Student 960,10th,960,Mathematics
-964,Student 961,10th,961,Science
-965,Student 962,10th,962,English
-966,Student 963,10th,963,History
-967,Student 964,10th,964,Geography
-968,Student 965,10th,965,Mathematics
-969,Student 966,10th,966,Science
-970,Student 967,10th,967,English
-971,Student 968,10th,968,History
-972,Student 969,10th,969,Geography
-973,Student 970,10th,970,Mathematics
-974,Student 971,10th,971,Science
-975,Student 972,10th,972,English
-976,Student 973,10th,973,History
-977,Student 974,10th,974,Geography
-978,Student 975,10th,975,Mathematics
-979,Student 976,10th,976,Science
-980,Student 977,10th,977,English
-981,Student 978,10th,978,History
-982,Student 979,10th,979,Geography
-983,Student 980,10th,980,Mathematics
-984,Student 981,10th,981,Science
-985,Student 982,10th,982,English
-986,Student 983,10th,983,History
-987,Student 984,10th,984,Geography
-988,Student 985,10th,985,Mathematics
-989,Student 986,10th,986,Science
-990,Student 987,10th,987,English
-991,Student 988,10th,988,History
-992,Student 989,10th,989,Geography
-993,Student 990,10th,990,Mathematics
-994,Student 991,10th,991,Science
-995,Student 992,10th,992,English
-996,Student 993,10th,993,History
-997,Student 994,10th,994,Geography
-998,Student 995,10th,995,Mathematics
-999,Student 996,10th,996,Science
-1000,Student 997,10th,997,English
-1001,Student 998,10th,998,History
-1002,Student 999,10th,999,Geography
-1003,Student 1000,10th,1000,Mathematics
+1,Student 1,6th Grade,101,Science
+2,Student 2,7th Grade,102,English
+3,Student 3,8th Grade,103,History
+4,Student 4,5th Grade,104,Geography
+5,Student 5,6th Grade,105,Mathematics
+6,Student 6,7th Grade,106,Science
+7,Student 7,8th Grade,107,English
+8,Student 8,5th Grade,108,History
+9,Student 9,6th Grade,109,Geography
+10,Student 10,7th Grade,110,Mathematics
+11,Student 11,8th Grade,111,Science
+12,Student 12,5th Grade,112,English
+13,Student 13,6th Grade,113,History
+14,Student 14,7th Grade,114,Geography
+15,Student 15,8th Grade,115,Mathematics
+16,Student 16,5th Grade,116,Science
+17,Student 17,6th Grade,117,English
+18,Student 18,7th Grade,118,History
+19,Student 19,8th Grade,119,Geography
+20,Student 20,5th Grade,120,Mathematics
+21,Student 21,6th Grade,121,Science
+22,Student 22,7th Grade,122,English
+23,Student 23,8th Grade,123,History
+24,Student 24,5th Grade,124,Geography
+25,Student 25,6th Grade,125,Mathematics
+26,Student 26,7th Grade,126,Science
+27,Student 27,8th Grade,127,English
+28,Student 28,5th Grade,128,History
+29,Student 29,6th Grade,129,Geography
+30,Student 30,7th Grade,130,Mathematics
+31,Student 31,8th Grade,131,Science
+32,Student 32,5th Grade,132,English
+33,Student 33,6th Grade,133,History
+34,Student 34,7th Grade,134,Geography
+35,Student 35,8th Grade,135,Mathematics
+36,Student 36,5th Grade,136,Science
+37,Student 37,6th Grade,137,English
+38,Student 38,7th Grade,138,History
+39,Student 39,8th Grade,139,Geography
+40,Student 40,5th Grade,140,Mathematics
+41,Student 41,6th Grade,141,Science
+42,Student 42,7th Grade,142,English
+43,Student 43,8th Grade,143,History
+44,Student 44,5th Grade,144,Geography
+45,Student 45,6th Grade,145,Mathematics
+46,Student 46,7th Grade,146,Science
+47,Student 47,8th Grade,147,English
+48,Student 48,5th Grade,148,History
+49,Student 49,6th Grade,149,Geography
+50,Student 50,7th Grade,150,Mathematics
+51,Student 51,8th Grade,151,Science
+52,Student 52,5th Grade,152,English
+53,Student 53,6th Grade,153,History
+54,Student 54,7th Grade,154,Geography
+55,Student 55,8th Grade,155,Mathematics
+56,Student 56,5th Grade,156,Science
+57,Student 57,6th Grade,157,English
+58,Student 58,7th Grade,158,History
+59,Student 59,8th Grade,159,Geography
+60,Student 60,5th Grade,160,Mathematics
+61,Student 61,6th Grade,161,Science
+62,Student 62,7th Grade,162,English
+63,Student 63,8th Grade,163,History
+64,Student 64,5th Grade,164,Geography
+65,Student 65,6th Grade,165,Mathematics
+66,Student 66,7th Grade,166,Science
+67,Student 67,8th Grade,167,English
+68,Student 68,5th Grade,168,History
+69,Student 69,6th Grade,169,Geography
+70,Student 70,7th Grade,170,Mathematics
+71,Student 71,8th Grade,171,Science
+72,Student 72,5th Grade,172,English
+73,Student 73,6th Grade,173,History
+74,Student 74,7th Grade,174,Geography
+75,Student 75,8th Grade,175,Mathematics
+76,Student 76,5th Grade,176,Science
+77,Student 77,6th Grade,177,English
+78,Student 78,7th Grade,178,History
+79,Student 79,8th Grade,179,Geography
+80,Student 80,5th Grade,180,Mathematics
+81,Student 81,6th Grade,181,Science
+82,Student 82,7th Grade,182,English
+83,Student 83,8th Grade,183,History
+84,Student 84,5th Grade,184,Geography
+85,Student 85,6th Grade,185,Mathematics
+86,Student 86,7th Grade,186,Science
+87,Student 87,8th Grade,187,English
+88,Student 88,5th Grade,188,History
+89,Student 89,6th Grade,189,Geography
+90,Student 90,7th Grade,190,Mathematics
+91,Student 91,8th Grade,191,Science
+92,Student 92,5th Grade,192,English
+93,Student 93,6th Grade,193,History
+94,Student 94,7th Grade,194,Geography
+95,Student 95,8th Grade,195,Mathematics
+96,Student 96,5th Grade,196,Science
+97,Student 97,6th Grade,197,English
+98,Student 98,7th Grade,198,History
+99,Student 99,8th Grade,199,Geography
+100,Student 100,5th Grade,200,Mathematics
+101,Student 101,6th Grade,201,Science
+102,Student 102,7th Grade,202,English
+103,Student 103,8th Grade,203,History
+104,Student 104,5th Grade,204,Geography
+105,Student 105,6th Grade,205,Mathematics
+106,Student 106,7th Grade,206,Science
+107,Student 107,8th Grade,207,English
+108,Student 108,5th Grade,208,History
+109,Student 109,6th Grade,209,Geography
+110,Student 110,7th Grade,210,Mathematics
+111,Student 111,8th Grade,211,Science
+112,Student 112,5th Grade,212,English
+113,Student 113,6th Grade,213,History
+114,Student 114,7th Grade,214,Geography
+115,Student 115,8th Grade,215,Mathematics
+116,Student 116,5th Grade,216,Science
+117,Student 117,6th Grade,217,English
+118,Student 118,7th Grade,218,History
+119,Student 119,8th Grade,219,Geography
+120,Student 120,5th Grade,220,Mathematics
+121,Student 121,6th Grade,221,Science
+122,Student 122,7th Grade,222,English
+123,Student 123,8th Grade,223,History
+124,Student 124,5th Grade,224,Geography
+125,Student 125,6th Grade,225,Mathematics
+126,Student 126,7th Grade,226,Science
+127,Student 127,8th Grade,227,English
+128,Student 128,5th Grade,228,History
+129,Student 129,6th Grade,229,Geography
+130,Student 130,7th Grade,230,Mathematics
+131,Student 131,8th Grade,231,Science
+132,Student 132,5th Grade,232,English
+133,Student 133,6th Grade,233,History
+134,Student 134,7th Grade,234,Geography
+135,Student 135,8th Grade,235,Mathematics
+136,Student 136,5th Grade,236,Science
+137,Student 137,6th Grade,237,English
+138,Student 138,7th Grade,238,History
+139,Student 139,8th Grade,239,Geography
+140,Student 140,5th Grade,240,Mathematics
+141,Student 141,6th Grade,241,Science
+142,Student 142,7th Grade,242,English
+143,Student 143,8th Grade,243,History
+144,Student 144,5th Grade,244,Geography
+145,Student 145,6th Grade,245,Mathematics
+146,Student 146,7th Grade,246,Science
+147,Student 147,8th Grade,247,English
+148,Student 148,5th Grade,248,History
+149,Student 149,6th Grade,249,Geography
+150,Student 150,7th Grade,250,Mathematics
+151,Student 151,8th Grade,251,Science
+152,Student 152,5th Grade,252,English
+153,Student 153,6th Grade,253,History
+154,Student 154,7th Grade,254,Geography
+155,Student 155,8th Grade,255,Mathematics
+156,Student 156,5th Grade,256,Science
+157,Student 157,6th Grade,257,English
+158,Student 158,7th Grade,258,History
+159,Student 159,8th Grade,259,Geography
+160,Student 160,5th Grade,260,Mathematics
+161,Student 161,6th Grade,261,Science
+162,Student 162,7th Grade,262,English
+163,Student 163,8th Grade,263,History
+164,Student 164,5th Grade,264,Geography
+165,Student 165,6th Grade,265,Mathematics
+166,Student 166,7th Grade,266,Science
+167,Student 167,8th Grade,267,English
+168,Student 168,5th Grade,268,History
+169,Student 169,6th Grade,269,Geography
+170,Student 170,7th Grade,270,Mathematics
+171,Student 171,8th Grade,271,Science
+172,Student 172,5th Grade,272,English
+173,Student 173,6th Grade,273,History
+174,Student 174,7th Grade,274,Geography
+175,Student 175,8th Grade,275,Mathematics
+176,Student 176,5th Grade,276,Science
+177,Student 177,6th Grade,277,English
+178,Student 178,7th Grade,278,History
+179,Student 179,8th Grade,279,Geography
+180,Student 180,5th Grade,280,Mathematics
+181,Student 181,6th Grade,281,Science
+182,Student 182,7th Grade,282,English
+183,Student 183,8th Grade,283,History
+184,Student 184,5th Grade,284,Geography
+185,Student 185,6th Grade,285,Mathematics
+186,Student 186,7th Grade,286,Science
+187,Student 187,8th Grade,287,English
+188,Student 188,5th Grade,288,History
+189,Student 189,6th Grade,289,Geography
+190,Student 190,7th Grade,290,Mathematics
+191,Student 191,8th Grade,291,Science
+192,Student 192,5th Grade,292,English
+193,Student 193,6th Grade,293,History
+194,Student 194,7th Grade,294,Geography
+195,Student 195,8th Grade,295,Mathematics
+196,Student 196,5th Grade,296,Science
+197,Student 197,6th Grade,297,English
+198,Student 198,7th Grade,298,History
+199,Student 199,8th Grade,299,Geography
+200,Student 200,5th Grade,300,Mathematics
+201,Student 201,6th Grade,301,Science
+202,Student 202,7th Grade,302,English
+203,Student 203,8th Grade,303,History
+204,Student 204,5th Grade,304,Geography
+205,Student 205,6th Grade,305,Mathematics
+206,Student 206,7th Grade,306,Science
+207,Student 207,8th Grade,307,English
+208,Student 208,5th Grade,308,History
+209,Student 209,6th Grade,309,Geography
+210,Student 210,7th Grade,310,Mathematics
+211,Student 211,8th Grade,311,Science
+212,Student 212,5th Grade,312,English
+213,Student 213,6th Grade,313,History
+214,Student 214,7th Grade,314,Geography
+215,Student 215,8th Grade,315,Mathematics
+216,Student 216,5th Grade,316,Science
+217,Student 217,6th Grade,317,English
+218,Student 218,7th Grade,318,History
+219,Student 219,8th Grade,319,Geography
+220,Student 220,5th Grade,320,Mathematics
+221,Student 221,6th Grade,321,Science
+222,Student 222,7th Grade,322,English
+223,Student 223,8th Grade,323,History
+224,Student 224,5th Grade,324,Geography
+225,Student 225,6th Grade,325,Mathematics
+226,Student 226,7th Grade,326,Science
+227,Student 227,8th Grade,327,English
+228,Student 228,5th Grade,328,History
+229,Student 229,6th Grade,329,Geography
+230,Student 230,7th Grade,330,Mathematics
+231,Student 231,8th Grade,331,Science
+232,Student 232,5th Grade,332,English
+233,Student 233,6th Grade,333,History
+234,Student 234,7th Grade,334,Geography
+235,Student 235,8th Grade,335,Mathematics
+236,Student 236,5th Grade,336,Science
+237,Student 237,6th Grade,337,English
+238,Student 238,7th Grade,338,History
+239,Student 239,8th Grade,339,Geography
+240,Student 240,5th Grade,340,Mathematics
+241,Student 241,6th Grade,341,Science
+242,Student 242,7th Grade,342,English
+243,Student 243,8th Grade,343,History
+244,Student 244,5th Grade,344,Geography
+245,Student 245,6th Grade,345,Mathematics
+246,Student 246,7th Grade,346,Science
+247,Student 247,8th Grade,347,English
+248,Student 248,5th Grade,348,History
+249,Student 249,6th Grade,349,Geography
+250,Student 250,7th Grade,350,Mathematics
+251,Student 251,8th Grade,351,Science
+252,Student 252,5th Grade,352,English
+253,Student 253,6th Grade,353,History
+254,Student 254,7th Grade,354,Geography
+255,Student 255,8th Grade,355,Mathematics
+256,Student 256,5th Grade,356,Science
+257,Student 257,6th Grade,357,English
+258,Student 258,7th Grade,358,History
+259,Student 259,8th Grade,359,Geography
+260,Student 260,5th Grade,360,Mathematics
+261,Student 261,6th Grade,361,Science
+262,Student 262,7th Grade,362,English
+263,Student 263,8th Grade,363,History
+264,Student 264,5th Grade,364,Geography
+265,Student 265,6th Grade,365,Mathematics
+266,Student 266,7th Grade,366,Science
+267,Student 267,8th Grade,367,English
+268,Student 268,5th Grade,368,History
+269,Student 269,6th Grade,369,Geography
+270,Student 270,7th Grade,370,Mathematics
+271,Student 271,8th Grade,371,Science
+272,Student 272,5th Grade,372,English
+273,Student 273,6th Grade,373,History
+274,Student 274,7th Grade,374,Geography
+275,Student 275,8th Grade,375,Mathematics
+276,Student 276,5th Grade,376,Science
+277,Student 277,6th Grade,377,English
+278,Student 278,7th Grade,378,History
+279,Student 279,8th Grade,379,Geography
+280,Student 280,5th Grade,380,Mathematics
+281,Student 281,6th Grade,381,Science
+282,Student 282,7th Grade,382,English
+283,Student 283,8th Grade,383,History
+284,Student 284,5th Grade,384,Geography
+285,Student 285,6th Grade,385,Mathematics
+286,Student 286,7th Grade,386,Science
+287,Student 287,8th Grade,387,English
+288,Student 288,5th Grade,388,History
+289,Student 289,6th Grade,389,Geography
+290,Student 290,7th Grade,390,Mathematics
+291,Student 291,8th Grade,391,Science
+292,Student 292,5th Grade,392,English
+293,Student 293,6th Grade,393,History
+294,Student 294,7th Grade,394,Geography
+295,Student 295,8th Grade,395,Mathematics
+296,Student 296,5th Grade,396,Science
+297,Student 297,6th Grade,397,English
+298,Student 298,7th Grade,398,History
+299,Student 299,8th Grade,399,Geography
+300,Student 300,5th Grade,400,Mathematics
+301,Student 301,6th Grade,401,Science
+302,Student 302,7th Grade,402,English
+303,Student 303,8th Grade,403,History
+304,Student 304,5th Grade,404,Geography
+305,Student 305,6th Grade,405,Mathematics
+306,Student 306,7th Grade,406,Science
+307,Student 307,8th Grade,407,English
+308,Student 308,5th Grade,408,History
+309,Student 309,6th Grade,409,Geography
+310,Student 310,7th Grade,410,Mathematics
+311,Student 311,8th Grade,411,Science
+312,Student 312,5th Grade,412,English
+313,Student 313,6th Grade,413,History
+314,Student 314,7th Grade,414,Geography
+315,Student 315,8th Grade,415,Mathematics
+316,Student 316,5th Grade,416,Science
+317,Student 317,6th Grade,417,English
+318,Student 318,7th Grade,418,History
+319,Student 319,8th Grade,419,Geography
+320,Student 320,5th Grade,420,Mathematics
+321,Student 321,6th Grade,421,Science
+322,Student 322,7th Grade,422,English
+323,Student 323,8th Grade,423,History
+324,Student 324,5th Grade,424,Geography
+325,Student 325,6th Grade,425,Mathematics
+326,Student 326,7th Grade,426,Science
+327,Student 327,8th Grade,427,English
+328,Student 328,5th Grade,428,History
+329,Student 329,6th Grade,429,Geography
+330,Student 330,7th Grade,430,Mathematics
+331,Student 331,8th Grade,431,Science
+332,Student 332,5th Grade,432,English
+333,Student 333,6th Grade,433,History
+334,Student 334,7th Grade,434,Geography
+335,Student 335,8th Grade,435,Mathematics
+336,Student 336,5th Grade,436,Science
+337,Student 337,6th Grade,437,English
+338,Student 338,7th Grade,438,History
+339,Student 339,8th Grade,439,Geography
+340,Student 340,5th Grade,440,Mathematics
+341,Student 341,6th Grade,441,Science
+342,Student 342,7th Grade,442,English
+343,Student 343,8th Grade,443,History
+344,Student 344,5th Grade,444,Geography
+345,Student 345,6th Grade,445,Mathematics
+346,Student 346,7th Grade,446,Science
+347,Student 347,8th Grade,447,English
+348,Student 348,5th Grade,448,History
+349,Student 349,6th Grade,449,Geography
+350,Student 350,7th Grade,450,Mathematics
+351,Student 351,8th Grade,451,Science
+352,Student 352,5th Grade,452,English
+353,Student 353,6th Grade,453,History
+354,Student 354,7th Grade,454,Geography
+355,Student 355,8th Grade,455,Mathematics
+356,Student 356,5th Grade,456,Science
+357,Student 357,6th Grade,457,English
+358,Student 358,7th Grade,458,History
+359,Student 359,8th Grade,459,Geography
+360,Student 360,5th Grade,460,Mathematics
+361,Student 361,6th Grade,461,Science
+362,Student 362,7th Grade,462,English
+363,Student 363,8th Grade,463,History
+364,Student 364,5th Grade,464,Geography
+365,Student 365,6th Grade,465,Mathematics
+366,Student 366,7th Grade,466,Science
+367,Student 367,8th Grade,467,English
+368,Student 368,5th Grade,468,History
+369,Student 369,6th Grade,469,Geography
+370,Student 370,7th Grade,470,Mathematics
+371,Student 371,8th Grade,471,Science
+372,Student 372,5th Grade,472,English
+373,Student 373,6th Grade,473,History
+374,Student 374,7th Grade,474,Geography
+375,Student 375,8th Grade,475,Mathematics
+376,Student 376,5th Grade,476,Science
+377,Student 377,6th Grade,477,English
+378,Student 378,7th Grade,478,History
+379,Student 379,8th Grade,479,Geography
+380,Student 380,5th Grade,480,Mathematics
+381,Student 381,6th Grade,481,Science
+382,Student 382,7th Grade,482,English
+383,Student 383,8th Grade,483,History
+384,Student 384,5th Grade,484,Geography
+385,Student 385,6th Grade,485,Mathematics
+386,Student 386,7th Grade,486,Science
+387,Student 387,8th Grade,487,English
+388,Student 388,5th Grade,488,History
+389,Student 389,6th Grade,489,Geography
+390,Student 390,7th Grade,490,Mathematics
+391,Student 391,8th Grade,491,Science
+392,Student 392,5th Grade,492,English
+393,Student 393,6th Grade,493,History
+394,Student 394,7th Grade,494,Geography
+395,Student 395,8th Grade,495,Mathematics
+396,Student 396,5th Grade,496,Science
+397,Student 397,6th Grade,497,English
+398,Student 398,7th Grade,498,History
+399,Student 399,8th Grade,499,Geography
+400,Student 400,5th Grade,500,Mathematics
+401,Student 401,6th Grade,501,Science
+402,Student 402,7th Grade,502,English
+403,Student 403,8th Grade,503,History
+404,Student 404,5th Grade,504,Geography
+405,Student 405,6th Grade,505,Mathematics
+406,Student 406,7th Grade,506,Science
+407,Student 407,8th Grade,507,English
+408,Student 408,5th Grade,508,History
+409,Student 409,6th Grade,509,Geography
+410,Student 410,7th Grade,510,Mathematics
+411,Student 411,8th Grade,511,Science
+412,Student 412,5th Grade,512,English
+413,Student 413,6th Grade,513,History
+414,Student 414,7th Grade,514,Geography
+415,Student 415,8th Grade,515,Mathematics
+416,Student 416,5th Grade,516,Science
+417,Student 417,6th Grade,517,English
+418,Student 418,7th Grade,518,History
+419,Student 419,8th Grade,519,Geography
+420,Student 420,5th Grade,520,Mathematics
+421,Student 421,6th Grade,521,Science
+422,Student 422,7th Grade,522,English
+423,Student 423,8th Grade,523,History
+424,Student 424,5th Grade,524,Geography
+425,Student 425,6th Grade,525,Mathematics
+426,Student 426,7th Grade,526,Science
+427,Student 427,8th Grade,527,English
+428,Student 428,5th Grade,528,History
+429,Student 429,6th Grade,529,Geography
+430,Student 430,7th Grade,530,Mathematics
+431,Student 431,8th Grade,531,Science
+432,Student 432,5th Grade,532,English
+433,Student 433,6th Grade,533,History
+434,Student 434,7th Grade,534,Geography
+435,Student 435,8th Grade,535,Mathematics
+436,Student 436,5th Grade,536,Science
+437,Student 437,6th Grade,537,English
+438,Student 438,7th Grade,538,History
+439,Student 439,8th Grade,539,Geography
+440,Student 440,5th Grade,540,Mathematics
+441,Student 441,6th Grade,541,Science
+442,Student 442,7th Grade,542,English
+443,Student 443,8th Grade,543,History
+444,Student 444,5th Grade,544,Geography
+445,Student 445,6th Grade,545,Mathematics
+446,Student 446,7th Grade,546,Science
+447,Student 447,8th Grade,547,English
+448,Student 448,5th Grade,548,History
+449,Student 449,6th Grade,549,Geography
+450,Student 450,7th Grade,550,Mathematics
+451,Student 451,8th Grade,551,Science
+452,Student 452,5th Grade,552,English
+453,Student 453,6th Grade,553,History
+454,Student 454,7th Grade,554,Geography
+455,Student 455,8th Grade,555,Mathematics
+456,Student 456,5th Grade,556,Science
+457,Student 457,6th Grade,557,English
+458,Student 458,7th Grade,558,History
+459,Student 459,8th Grade,559,Geography
+460,Student 460,5th Grade,560,Mathematics
+461,Student 461,6th Grade,561,Science
+462,Student 462,7th Grade,562,English
+463,Student 463,8th Grade,563,History
+464,Student 464,5th Grade,564,Geography
+465,Student 465,6th Grade,565,Mathematics
+466,Student 466,7th Grade,566,Science
+467,Student 467,8th Grade,567,English
+468,Student 468,5th Grade,568,History
+469,Student 469,6th Grade,569,Geography
+470,Student 470,7th Grade,570,Mathematics
+471,Student 471,8th Grade,571,Science
+472,Student 472,5th Grade,572,English
+473,Student 473,6th Grade,573,History
+474,Student 474,7th Grade,574,Geography
+475,Student 475,8th Grade,575,Mathematics
+476,Student 476,5th Grade,576,Science
+477,Student 477,6th Grade,577,English
+478,Student 478,7th Grade,578,History
+479,Student 479,8th Grade,579,Geography
+480,Student 480,5th Grade,580,Mathematics
+481,Student 481,6th Grade,581,Science
+482,Student 482,7th Grade,582,English
+483,Student 483,8th Grade,583,History
+484,Student 484,5th Grade,584,Geography
+485,Student 485,6th Grade,585,Mathematics
+486,Student 486,7th Grade,586,Science
+487,Student 487,8th Grade,587,English
+488,Student 488,5th Grade,588,History
+489,Student 489,6th Grade,589,Geography
+490,Student 490,7th Grade,590,Mathematics
+491,Student 491,8th Grade,591,Science
+492,Student 492,5th Grade,592,English
+493,Student 493,6th Grade,593,History
+494,Student 494,7th Grade,594,Geography
+495,Student 495,8th Grade,595,Mathematics
+496,Student 496,5th Grade,596,Science
+497,Student 497,6th Grade,597,English
+498,Student 498,7th Grade,598,History
+499,Student 499,8th Grade,599,Geography
+500,Student 500,5th Grade,600,Mathematics
+501,Student 501,6th Grade,601,Science
+502,Student 502,7th Grade,602,English
+503,Student 503,8th Grade,603,History
+504,Student 504,5th Grade,604,Geography
+505,Student 505,6th Grade,605,Mathematics
+506,Student 506,7th Grade,606,Science
+507,Student 507,8th Grade,607,English
+508,Student 508,5th Grade,608,History
+509,Student 509,6th Grade,609,Geography
+510,Student 510,7th Grade,610,Mathematics
+511,Student 511,8th Grade,611,Science
+512,Student 512,5th Grade,612,English
+513,Student 513,6th Grade,613,History
+514,Student 514,7th Grade,614,Geography
+515,Student 515,8th Grade,615,Mathematics
+516,Student 516,5th Grade,616,Science
+517,Student 517,6th Grade,617,English
+518,Student 518,7th Grade,618,History
+519,Student 519,8th Grade,619,Geography
+520,Student 520,5th Grade,620,Mathematics
+521,Student 521,6th Grade,621,Science
+522,Student 522,7th Grade,622,English
+523,Student 523,8th Grade,623,History
+524,Student 524,5th Grade,624,Geography
+525,Student 525,6th Grade,625,Mathematics
+526,Student 526,7th Grade,626,Science
+527,Student 527,8th Grade,627,English
+528,Student 528,5th Grade,628,History
+529,Student 529,6th Grade,629,Geography
+530,Student 530,7th Grade,630,Mathematics
+531,Student 531,8th Grade,631,Science
+532,Student 532,5th Grade,632,English
+533,Student 533,6th Grade,633,History
+534,Student 534,7th Grade,634,Geography
+535,Student 535,8th Grade,635,Mathematics
+536,Student 536,5th Grade,636,Science
+537,Student 537,6th Grade,637,English
+538,Student 538,7th Grade,638,History
+539,Student 539,8th Grade,639,Geography
+540,Student 540,5th Grade,640,Mathematics
+541,Student 541,6th Grade,641,Science
+542,Student 542,7th Grade,642,English
+543,Student 543,8th Grade,643,History
+544,Student 544,5th Grade,644,Geography
+545,Student 545,6th Grade,645,Mathematics
+546,Student 546,7th Grade,646,Science
+547,Student 547,8th Grade,647,English
+548,Student 548,5th Grade,648,History
+549,Student 549,6th Grade,649,Geography
+550,Student 550,7th Grade,650,Mathematics
+551,Student 551,8th Grade,651,Science
+552,Student 552,5th Grade,652,English
+553,Student 553,6th Grade,653,History
+554,Student 554,7th Grade,654,Geography
+555,Student 555,8th Grade,655,Mathematics
+556,Student 556,5th Grade,656,Science
+557,Student 557,6th Grade,657,English
+558,Student 558,7th Grade,658,History
+559,Student 559,8th Grade,659,Geography
+560,Student 560,5th Grade,660,Mathematics
+561,Student 561,6th Grade,661,Science
+562,Student 562,7th Grade,662,English
+563,Student 563,8th Grade,663,History
+564,Student 564,5th Grade,664,Geography
+565,Student 565,6th Grade,665,Mathematics
+566,Student 566,7th Grade,666,Science
+567,Student 567,8th Grade,667,English
+568,Student 568,5th Grade,668,History
+569,Student 569,6th Grade,669,Geography
+570,Student 570,7th Grade,670,Mathematics
+571,Student 571,8th Grade,671,Science
+572,Student 572,5th Grade,672,English
+573,Student 573,6th Grade,673,History
+574,Student 574,7th Grade,674,Geography
+575,Student 575,8th Grade,675,Mathematics
+576,Student 576,5th Grade,676,Science
+577,Student 577,6th Grade,677,English
+578,Student 578,7th Grade,678,History
+579,Student 579,8th Grade,679,Geography
+580,Student 580,5th Grade,680,Mathematics
+581,Student 581,6th Grade,681,Science
+582,Student 582,7th Grade,682,English
+583,Student 583,8th Grade,683,History
+584,Student 584,5th Grade,684,Geography
+585,Student 585,6th Grade,685,Mathematics
+586,Student 586,7th Grade,686,Science
+587,Student 587,8th Grade,687,English
+588,Student 588,5th Grade,688,History
+589,Student 589,6th Grade,689,Geography
+590,Student 590,7th Grade,690,Mathematics
+591,Student 591,8th Grade,691,Science
+592,Student 592,5th Grade,692,English
+593,Student 593,6th Grade,693,History
+594,Student 594,7th Grade,694,Geography
+595,Student 595,8th Grade,695,Mathematics
+596,Student 596,5th Grade,696,Science
+597,Student 597,6th Grade,697,English
+598,Student 598,7th Grade,698,History
+599,Student 599,8th Grade,699,Geography
+600,Student 600,5th Grade,700,Mathematics
+601,Student 601,6th Grade,701,Science
+602,Student 602,7th Grade,702,English
+603,Student 603,8th Grade,703,History
+604,Student 604,5th Grade,704,Geography
+605,Student 605,6th Grade,705,Mathematics
+606,Student 606,7th Grade,706,Science
+607,Student 607,8th Grade,707,English
+608,Student 608,5th Grade,708,History
+609,Student 609,6th Grade,709,Geography
+610,Student 610,7th Grade,710,Mathematics
+611,Student 611,8th Grade,711,Science
+612,Student 612,5th Grade,712,English
+613,Student 613,6th Grade,713,History
+614,Student 614,7th Grade,714,Geography
+615,Student 615,8th Grade,715,Mathematics
+616,Student 616,5th Grade,716,Science
+617,Student 617,6th Grade,717,English
+618,Student 618,7th Grade,718,History
+619,Student 619,8th Grade,719,Geography
+620,Student 620,5th Grade,720,Mathematics
+621,Student 621,6th Grade,721,Science
+622,Student 622,7th Grade,722,English
+623,Student 623,8th Grade,723,History
+624,Student 624,5th Grade,724,Geography
+625,Student 625,6th Grade,725,Mathematics
+626,Student 626,7th Grade,726,Science
+627,Student 627,8th Grade,727,English
+628,Student 628,5th Grade,728,History
+629,Student 629,6th Grade,729,Geography
+630,Student 630,7th Grade,730,Mathematics
+631,Student 631,8th Grade,731,Science
+632,Student 632,5th Grade,732,English
+633,Student 633,6th Grade,733,History
+634,Student 634,7th Grade,734,Geography
+635,Student 635,8th Grade,735,Mathematics
+636,Student 636,5th Grade,736,Science
+637,Student 637,6th Grade,737,English
+638,Student 638,7th Grade,738,History
+639,Student 639,8th Grade,739,Geography
+640,Student 640,5th Grade,740,Mathematics
+641,Student 641,6th Grade,741,Science
+642,Student 642,7th Grade,742,English
+643,Student 643,8th Grade,743,History
+644,Student 644,5th Grade,744,Geography
+645,Student 645,6th Grade,745,Mathematics
+646,Student 646,7th Grade,746,Science
+647,Student 647,8th Grade,747,English
+648,Student 648,5th Grade,748,History
+649,Student 649,6th Grade,749,Geography
+650,Student 650,7th Grade,750,Mathematics
+651,Student 651,8th Grade,751,Science
+652,Student 652,5th Grade,752,English
+653,Student 653,6th Grade,753,History
+654,Student 654,7th Grade,754,Geography
+655,Student 655,8th Grade,755,Mathematics
+656,Student 656,5th Grade,756,Science
+657,Student 657,6th Grade,757,English
+658,Student 658,7th Grade,758,History
+659,Student 659,8th Grade,759,Geography
+660,Student 660,5th Grade,760,Mathematics
+661,Student 661,6th Grade,761,Science
+662,Student 662,7th Grade,762,English
+663,Student 663,8th Grade,763,History
+664,Student 664,5th Grade,764,Geography
+665,Student 665,6th Grade,765,Mathematics
+666,Student 666,7th Grade,766,Science
+667,Student 667,8th Grade,767,English
+668,Student 668,5th Grade,768,History
+669,Student 669,6th Grade,769,Geography
+670,Student 670,7th Grade,770,Mathematics
+671,Student 671,8th Grade,771,Science
+672,Student 672,5th Grade,772,English
+673,Student 673,6th Grade,773,History
+674,Student 674,7th Grade,774,Geography
+675,Student 675,8th Grade,775,Mathematics
+676,Student 676,5th Grade,776,Science
+677,Student 677,6th Grade,777,English
+678,Student 678,7th Grade,778,History
+679,Student 679,8th Grade,779,Geography
+680,Student 680,5th Grade,780,Mathematics
+681,Student 681,6th Grade,781,Science
+682,Student 682,7th Grade,782,English
+683,Student 683,8th Grade,783,History
+684,Student 684,5th Grade,784,Geography
+685,Student 685,6th Grade,785,Mathematics
+686,Student 686,7th Grade,786,Science
+687,Student 687,8th Grade,787,English
+688,Student 688,5th Grade,788,History
+689,Student 689,6th Grade,789,Geography
+690,Student 690,7th Grade,790,Mathematics
+691,Student 691,8th Grade,791,Science
+692,Student 692,5th Grade,792,English
+693,Student 693,6th Grade,793,History
+694,Student 694,7th Grade,794,Geography
+695,Student 695,8th Grade,795,Mathematics
+696,Student 696,5th Grade,796,Science
+697,Student 697,6th Grade,797,English
+698,Student 698,7th Grade,798,History
+699,Student 699,8th Grade,799,Geography
+700,Student 700,5th Grade,800,Mathematics
+701,Student 701,6th Grade,801,Science
+702,Student 702,7th Grade,802,English
+703,Student 703,8th Grade,803,History
+704,Student 704,5th Grade,804,Geography
+705,Student 705,6th Grade,805,Mathematics
+706,Student 706,7th Grade,806,Science
+707,Student 707,8th Grade,807,English
+708,Student 708,5th Grade,808,History
+709,Student 709,6th Grade,809,Geography
+710,Student 710,7th Grade,810,Mathematics
+711,Student 711,8th Grade,811,Science
+712,Student 712,5th Grade,812,English
+713,Student 713,6th Grade,813,History
+714,Student 714,7th Grade,814,Geography
+715,Student 715,8th Grade,815,Mathematics
+716,Student 716,5th Grade,816,Science
+717,Student 717,6th Grade,817,English
+718,Student 718,7th Grade,818,History
+719,Student 719,8th Grade,819,Geography
+720,Student 720,5th Grade,820,Mathematics
+721,Student 721,6th Grade,821,Science
+722,Student 722,7th Grade,822,English
+723,Student 723,8th Grade,823,History
+724,Student 724,5th Grade,824,Geography
+725,Student 725,6th Grade,825,Mathematics
+726,Student 726,7th Grade,826,Science
+727,Student 727,8th Grade,827,English
+728,Student 728,5th Grade,828,History
+729,Student 729,6th Grade,829,Geography
+730,Student 730,7th Grade,830,Mathematics
+731,Student 731,8th Grade,831,Science
+732,Student 732,5th Grade,832,English
+733,Student 733,6th Grade,833,History
+734,Student 734,7th Grade,834,Geography
+735,Student 735,8th Grade,835,Mathematics
+736,Student 736,5th Grade,836,Science
+737,Student 737,6th Grade,837,English
+738,Student 738,7th Grade,838,History
+739,Student 739,8th Grade,839,Geography
+740,Student 740,5th Grade,840,Mathematics
+741,Student 741,6th Grade,841,Science
+742,Student 742,7th Grade,842,English
+743,Student 743,8th Grade,843,History
+744,Student 744,5th Grade,844,Geography
+745,Student 745,6th Grade,845,Mathematics
+746,Student 746,7th Grade,846,Science
+747,Student 747,8th Grade,847,English
+748,Student 748,5th Grade,848,History
+749,Student 749,6th Grade,849,Geography
+750,Student 750,7th Grade,850,Mathematics
+751,Student 751,8th Grade,851,Science
+752,Student 752,5th Grade,852,English
+753,Student 753,6th Grade,853,History
+754,Student 754,7th Grade,854,Geography
+755,Student 755,8th Grade,855,Mathematics
+756,Student 756,5th Grade,856,Science
+757,Student 757,6th Grade,857,English
+758,Student 758,7th Grade,858,History
+759,Student 759,8th Grade,859,Geography
+760,Student 760,5th Grade,860,Mathematics
+761,Student 761,6th Grade,861,Science
+762,Student 762,7th Grade,862,English
+763,Student 763,8th Grade,863,History
+764,Student 764,5th Grade,864,Geography
+765,Student 765,6th Grade,865,Mathematics
+766,Student 766,7th Grade,866,Science
+767,Student 767,8th Grade,867,English
+768,Student 768,5th Grade,868,History
+769,Student 769,6th Grade,869,Geography
+770,Student 770,7th Grade,870,Mathematics
+771,Student 771,8th Grade,871,Science
+772,Student 772,5th Grade,872,English
+773,Student 773,6th Grade,873,History
+774,Student 774,7th Grade,874,Geography
+775,Student 775,8th Grade,875,Mathematics
+776,Student 776,5th Grade,876,Science
+777,Student 777,6th Grade,877,English
+778,Student 778,7th Grade,878,History
+779,Student 779,8th Grade,879,Geography
+780,Student 780,5th Grade,880,Mathematics
+781,Student 781,6th Grade,881,Science
+782,Student 782,7th Grade,882,English
+783,Student 783,8th Grade,883,History
+784,Student 784,5th Grade,884,Geography
+785,Student 785,6th Grade,885,Mathematics
+786,Student 786,7th Grade,886,Science
+787,Student 787,8th Grade,887,English
+788,Student 788,5th Grade,888,History
+789,Student 789,6th Grade,889,Geography
+790,Student 790,7th Grade,890,Mathematics
+791,Student 791,8th Grade,891,Science
+792,Student 792,5th Grade,892,English
+793,Student 793,6th Grade,893,History
+794,Student 794,7th Grade,894,Geography
+795,Student 795,8th Grade,895,Mathematics
+796,Student 796,5th Grade,896,Science
+797,Student 797,6th Grade,897,English
+798,Student 798,7th Grade,898,History
+799,Student 799,8th Grade,899,Geography
+800,Student 800,5th Grade,900,Mathematics
+801,Student 801,6th Grade,901,Science
+802,Student 802,7th Grade,902,English
+803,Student 803,8th Grade,903,History
+804,Student 804,5th Grade,904,Geography
+805,Student 805,6th Grade,905,Mathematics
+806,Student 806,7th Grade,906,Science
+807,Student 807,8th Grade,907,English
+808,Student 808,5th Grade,908,History
+809,Student 809,6th Grade,909,Geography
+810,Student 810,7th Grade,910,Mathematics
+811,Student 811,8th Grade,911,Science
+812,Student 812,5th Grade,912,English
+813,Student 813,6th Grade,913,History
+814,Student 814,7th Grade,914,Geography
+815,Student 815,8th Grade,915,Mathematics
+816,Student 816,5th Grade,916,Science
+817,Student 817,6th Grade,917,English
+818,Student 818,7th Grade,918,History
+819,Student 819,8th Grade,919,Geography
+820,Student 820,5th Grade,920,Mathematics
+821,Student 821,6th Grade,921,Science
+822,Student 822,7th Grade,922,English
+823,Student 823,8th Grade,923,History
+824,Student 824,5th Grade,924,Geography
+825,Student 825,6th Grade,925,Mathematics
+826,Student 826,7th Grade,926,Science
+827,Student 827,8th Grade,927,English
+828,Student 828,5th Grade,928,History
+829,Student 829,6th Grade,929,Geography
+830,Student 830,7th Grade,930,Mathematics
+831,Student 831,8th Grade,931,Science
+832,Student 832,5th Grade,932,English
+833,Student 833,6th Grade,933,History
+834,Student 834,7th Grade,934,Geography
+835,Student 835,8th Grade,935,Mathematics
+836,Student 836,5th Grade,936,Science
+837,Student 837,6th Grade,937,English
+838,Student 838,7th Grade,938,History
+839,Student 839,8th Grade,939,Geography
+840,Student 840,5th Grade,940,Mathematics
+841,Student 841,6th Grade,941,Science
+842,Student 842,7th Grade,942,English
+843,Student 843,8th Grade,943,History
+844,Student 844,5th Grade,944,Geography
+845,Student 845,6th Grade,945,Mathematics
+846,Student 846,7th Grade,946,Science
+847,Student 847,8th Grade,947,English
+848,Student 848,5th Grade,948,History
+849,Student 849,6th Grade,949,Geography
+850,Student 850,7th Grade,950,Mathematics
+851,Student 851,8th Grade,951,Science
+852,Student 852,5th Grade,952,English
+853,Student 853,6th Grade,953,History
+854,Student 854,7th Grade,954,Geography
+855,Student 855,8th Grade,955,Mathematics
+856,Student 856,5th Grade,956,Science
+857,Student 857,6th Grade,957,English
+858,Student 858,7th Grade,958,History
+859,Student 859,8th Grade,959,Geography
+860,Student 860,5th Grade,960,Mathematics
+861,Student 861,6th Grade,961,Science
+862,Student 862,7th Grade,962,English
+863,Student 863,8th Grade,963,History
+864,Student 864,5th Grade,964,Geography
+865,Student 865,6th Grade,965,Mathematics
+866,Student 866,7th Grade,966,Science
+867,Student 867,8th Grade,967,English
+868,Student 868,5th Grade,968,History
+869,Student 869,6th Grade,969,Geography
+870,Student 870,7th Grade,970,Mathematics
+871,Student 871,8th Grade,971,Science
+872,Student 872,5th Grade,972,English
+873,Student 873,6th Grade,973,History
+874,Student 874,7th Grade,974,Geography
+875,Student 875,8th Grade,975,Mathematics
+876,Student 876,5th Grade,976,Science
+877,Student 877,6th Grade,977,English
+878,Student 878,7th Grade,978,History
+879,Student 879,8th Grade,979,Geography
+880,Student 880,5th Grade,980,Mathematics
+881,Student 881,6th Grade,981,Science
+882,Student 882,7th Grade,982,English
+883,Student 883,8th Grade,983,History
+884,Student 884,5th Grade,984,Geography
+885,Student 885,6th Grade,985,Mathematics
+886,Student 886,7th Grade,986,Science
+887,Student 887,8th Grade,987,English
+888,Student 888,5th Grade,988,History
+889,Student 889,6th Grade,989,Geography
+890,Student 890,7th Grade,990,Mathematics
+891,Student 891,8th Grade,991,Science
+892,Student 892,5th Grade,992,English
+893,Student 893,6th Grade,993,History
+894,Student 894,7th Grade,994,Geography
+895,Student 895,8th Grade,995,Mathematics
+896,Student 896,5th Grade,996,Science
+897,Student 897,6th Grade,997,English
+898,Student 898,7th Grade,998,History
+899,Student 899,8th Grade,999,Geography
+900,Student 900,5th Grade,1000,Mathematics
+901,Student 901,6th Grade,1001,Science
+902,Student 902,7th Grade,1002,English
+903,Student 903,8th Grade,1003,History
+904,Student 904,5th Grade,1004,Geography
+905,Student 905,6th Grade,1005,Mathematics
+906,Student 906,7th Grade,1006,Science
+907,Student 907,8th Grade,1007,English
+908,Student 908,5th Grade,1008,History
+909,Student 909,6th Grade,1009,Geography
+910,Student 910,7th Grade,1010,Mathematics
+911,Student 911,8th Grade,1011,Science
+912,Student 912,5th Grade,1012,English
+913,Student 913,6th Grade,1013,History
+914,Student 914,7th Grade,1014,Geography
+915,Student 915,8th Grade,1015,Mathematics
+916,Student 916,5th Grade,1016,Science
+917,Student 917,6th Grade,1017,English
+918,Student 918,7th Grade,1018,History
+919,Student 919,8th Grade,1019,Geography
+920,Student 920,5th Grade,1020,Mathematics
+921,Student 921,6th Grade,1021,Science
+922,Student 922,7th Grade,1022,English
+923,Student 923,8th Grade,1023,History
+924,Student 924,5th Grade,1024,Geography
+925,Student 925,6th Grade,1025,Mathematics
+926,Student 926,7th Grade,1026,Science
+927,Student 927,8th Grade,1027,English
+928,Student 928,5th Grade,1028,History
+929,Student 929,6th Grade,1029,Geography
+930,Student 930,7th Grade,1030,Mathematics
+931,Student 931,8th Grade,1031,Science
+932,Student 932,5th Grade,1032,English
+933,Student 933,6th Grade,1033,History
+934,Student 934,7th Grade,1034,Geography
+935,Student 935,8th Grade,1035,Mathematics
+936,Student 936,5th Grade,1036,Science
+937,Student 937,6th Grade,1037,English
+938,Student 938,7th Grade,1038,History
+939,Student 939,8th Grade,1039,Geography
+940,Student 940,5th Grade,1040,Mathematics
+941,Student 941,6th Grade,1041,Science
+942,Student 942,7th Grade,1042,English
+943,Student 943,8th Grade,1043,History
+944,Student 944,5th Grade,1044,Geography
+945,Student 945,6th Grade,1045,Mathematics
+946,Student 946,7th Grade,1046,Science
+947,Student 947,8th Grade,1047,English
+948,Student 948,5th Grade,1048,History
+949,Student 949,6th Grade,1049,Geography
+950,Student 950,7th Grade,1050,Mathematics
+951,Student 951,8th Grade,1051,Science
+952,Student 952,5th Grade,1052,English
+953,Student 953,6th Grade,1053,History
+954,Student 954,7th Grade,1054,Geography
+955,Student 955,8th Grade,1055,Mathematics
+956,Student 956,5th Grade,1056,Science
+957,Student 957,6th Grade,1057,English
+958,Student 958,7th Grade,1058,History
+959,Student 959,8th Grade,1059,Geography
+960,Student 960,5th Grade,1060,Mathematics
+961,Student 961,6th Grade,1061,Science
+962,Student 962,7th Grade,1062,English
+963,Student 963,8th Grade,1063,History
+964,Student 964,5th Grade,1064,Geography
+965,Student 965,6th Grade,1065,Mathematics
+966,Student 966,7th Grade,1066,Science
+967,Student 967,8th Grade,1067,English
+968,Student 968,5th Grade,1068,History
+969,Student 969,6th Grade,1069,Geography
+970,Student 970,7th Grade,1070,Mathematics
+971,Student 971,8th Grade,1071,Science
+972,Student 972,5th Grade,1072,English
+973,Student 973,6th Grade,1073,History
+974,Student 974,7th Grade,1074,Geography
+975,Student 975,8th Grade,1075,Mathematics
+976,Student 976,5th Grade,1076,Science
+977,Student 977,6th Grade,1077,English
+978,Student 978,7th Grade,1078,History
+979,Student 979,8th Grade,1079,Geography
+980,Student 980,5th Grade,1080,Mathematics
+981,Student 981,6th Grade,1081,Science
+982,Student 982,7th Grade,1082,English
+983,Student 983,8th Grade,1083,History
+984,Student 984,5th Grade,1084,Geography
+985,Student 985,6th Grade,1085,Mathematics
+986,Student 986,7th Grade,1086,Science
+987,Student 987,8th Grade,1087,English
+988,Student 988,5th Grade,1088,History
+989,Student 989,6th Grade,1089,Geography
+990,Student 990,7th Grade,1090,Mathematics
+991,Student 991,8th Grade,1091,Science
+992,Student 992,5th Grade,1092,English
+993,Student 993,6th Grade,1093,History
+994,Student 994,7th Grade,1094,Geography
+995,Student 995,8th Grade,1095,Mathematics
+996,Student 996,5th Grade,1096,Science
+997,Student 997,6th Grade,1097,English
+998,Student 998,7th Grade,1098,History
+999,Student 999,8th Grade,1099,Geography
+1000,Student 1000,5th Grade,1100,Mathematics
