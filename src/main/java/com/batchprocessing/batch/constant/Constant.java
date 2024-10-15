@@ -1,5 +1,5 @@
 package com.batchprocessing.batch.constant;
 
-public interface CONSTANT {
+public interface Constant {
     String HEADER = "ID,NAME,STANDARD,ROLL NO,SUBJECT";
 }

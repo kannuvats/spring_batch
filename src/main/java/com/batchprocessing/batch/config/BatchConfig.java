@@ -4,6 +4,7 @@ import com.batchprocessing.batch.assembler.ExcelAssembler;
 import com.batchprocessing.batch.model.Student;
 import com.batchprocessing.batch.response.ResponseHolder;
 import lombok.extern.slf4j.Slf4j;
+import org.apache.poi.ss.usermodel.Sheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 import org.springframework.batch.core.*;
 import org.springframework.batch.core.configuration.annotation.EnableBatchProcessing;
@@ -13,8 +14,6 @@ import org.springframework.batch.core.configuration.annotation.StepScope;
 import org.springframework.batch.core.launch.support.RunIdIncrementer;
 import org.springframework.batch.item.ItemWriter;
 import org.springframework.batch.item.database.StoredProcedureItemReader;
-import org.springframework.batch.item.file.transform.BeanWrapperFieldExtractor;
-import org.springframework.batch.item.file.transform.DelimitedLineAggregator;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -22,7 +21,10 @@ import org.springframework.jdbc.core.SqlParameter;
 
 import javax.servlet.http.HttpServletResponse;
 import javax.sql.DataSource;
-import java.io.*;
+import java.io.ByteArrayOutputStream;
+import java.io.IOException;
+import java.io.OutputStream;
+import java.sql.SQLException;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
@@ -41,33 +43,25 @@ public class BatchConfig {
         this.jobBuilderFactory = jobBuilderFactory;
         this.stepBuilderFactory = stepBuilderFactory;
         this.dataSource = dataSource;
+
     }
 
     private XSSFWorkbook workbook; // Member variable for workbook
     private String sheetName;
 
     @Bean
-    public Job exportStudentJob() {
-        return jobBuilderFactory.get("exportStudentJob")
-                .incrementer(new RunIdIncrementer())
-                .flow(step1())
-                .end()
-                .listener(jobExecutionListener())
-                .build();
+    public Job exportStudentJob() throws SQLException {
+        return jobBuilderFactory.get("exportStudentJob").incrementer(new RunIdIncrementer()).flow(step1()).end().listener(jobExecutionListener()).build();
     }
 
     @Bean
-    public Step step1() {
-        return stepBuilderFactory.get("step1")
-                .<Student, Student>chunk(500)
-                .reader(reader(null)) // Use placeholder for the schoolId
-                .writer(excelWriter())
-                .build();
+    public Step step1() throws SQLException {
+        return stepBuilderFactory.get("step1").<Student, Student>chunk(100).reader(reader(null)).writer(excelWriter()).build();
     }
 
     @Bean
     @StepScope
-    public StoredProcedureItemReader<Student> reader(@Value("#{jobParameters['schoolId']}") Integer schoolId) {
+    public StoredProcedureItemReader<Student> reader(@Value("#{jobParameters['schoolId']}") Integer schoolId) throws SQLException {
         log.info("Initializing StoredProcedureItemReader with schoolId: {}", schoolId);
         StoredProcedureItemReader<Student> storedProcedureItemReader = new StoredProcedureItemReader<>();
         storedProcedureItemReader.setDataSource(dataSource);
@@ -83,18 +77,33 @@ public class BatchConfig {
     @Bean
     public ItemWriter<Student> excelWriter() {
         return students -> {
-            Map<String, Object> model = new HashMap<>();
-            model.put("Excel Name", "students");
-            model.put("HEADERS", List.of("ID", "NAME", "STANDARD", "ROLLNO", "SUBJECT"));
-            sheetName = (String) model.get("Excel Name");
+                Map<String, Object> model = new HashMap<>();
+                model.put("Excel Name", "students");
+                model.put("HEADERS", List.of("ID", "NAME", "STANDARD", "ROLLNO", "SUBJECT"));
+                sheetName = (String) model.get("Excel Name");
 
-            ExcelAssembler assembler = new ExcelAssembler();
-            List<List<String>> results = assembler.convertStudentsToResults((List<Student>) students);
-            model.put("RESULTS", results);
+                ExcelAssembler assembler = new ExcelAssembler();
+                List<List<String>> results = assembler.convertStudentsToResults((List<Student>) students);
+                model.put("RESULTS", results);
 
-            ExcelWriter excelWriter = new ExcelWriter(workbook);
-            excelWriter.buildExcelDocument(model);
+                ExcelWriter excelWriter = new ExcelWriter(workbook);
+                excelWriter.buildExcelDocument(model);
         };
+    }
+
+    private void createBlankSheetWithHeaders() {
+        try {
+            workbook = new XSSFWorkbook();
+            sheetName = "Students";
+            Sheet sheet = workbook.createSheet(sheetName);
+            List<String> headers = List.of("ID", "NAME", "STANDARD", "ROLLNO", "SUBJECT");
+            ExcelWriter excelWriter = new ExcelWriter(workbook);
+            excelWriter.createHeaderRow(sheet,headers);
+
+        } catch (Exception e) {
+            log.error("Error creating blank sheet: {}", e.getMessage(), e);
+            throw new RuntimeException("Failed to create blank sheet", e);
+        }
     }
 
     @Bean
@@ -109,12 +118,21 @@ public class BatchConfig {
             @Override
             public void afterJob(JobExecution jobExecution) {
                 HttpServletResponse response = ResponseHolder.getResponse();
+
+                for (StepExecution stepExecution : jobExecution.getStepExecutions()) {
+                    int count = stepExecution.getReadCount();
+                    if (count == 0) {
+                       createBlankSheetWithHeaders();
+                        break;
+                    }
+                }
+
                 try (ByteArrayOutputStream byteArrayOutputStream = new ByteArrayOutputStream()) {
                     workbook.write(byteArrayOutputStream);
                     byte[] bytes = byteArrayOutputStream.toByteArray();
 
                     // Set response headers and content type
-                  //  HttpServletResponse response = (HttpServletResponse) jobExecution.getJobParameters().get("response");
+                    //  HttpServletResponse response = (HttpServletResponse) jobExecution.getJobParameters().get("response");
                     response.setHeader("Content-Disposition", "attachment; filename=" + sheetName + ".xlsx");
                     response.setContentType("application/vnd.openxmlformats-officedocument.spreadsheetml.sheet");
 

@@ -65,7 +65,7 @@ public class ExcelWriter {
         }
     }
 
-    private void createHeaderRow(Sheet sheet, List<String> headers) {
+    public void createHeaderRow(Sheet sheet, List<String> headers) {
         CellStyle headerStyle = workbook.createCellStyle();
         headerStyle.setFillForegroundColor(IndexedColors.GREY_50_PERCENT.getIndex());
         headerStyle.setFillPattern(FillPatternType.SOLID_FOREGROUND);
