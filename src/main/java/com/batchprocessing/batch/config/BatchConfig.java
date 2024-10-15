@@ -38,7 +38,8 @@ public class BatchConfig {
     private final JobBuilderFactory jobBuilderFactory;
     private final StepBuilderFactory stepBuilderFactory;
     private final DataSource dataSource;
-
+    private XSSFWorkbook workbook; // Member variable for workbook
+    private String sheetName;
     public BatchConfig(JobBuilderFactory jobBuilderFactory, StepBuilderFactory stepBuilderFactory, DataSource dataSource) {
         this.jobBuilderFactory = jobBuilderFactory;
         this.stepBuilderFactory = stepBuilderFactory;
@@ -46,12 +47,14 @@ public class BatchConfig {
 
     }
 
-    private XSSFWorkbook workbook; // Member variable for workbook
-    private String sheetName;
-
     @Bean
     public Job exportStudentJob() throws SQLException {
-        return jobBuilderFactory.get("exportStudentJob").incrementer(new RunIdIncrementer()).flow(step1()).end().listener(jobExecutionListener()).build();
+        return jobBuilderFactory.get("exportStudentJob")
+                .incrementer(new RunIdIncrementer())
+                .flow(step1())
+                .end()
+                .listener(jobExecutionListener())
+                .build();
     }
 
     @Bean
@@ -77,17 +80,17 @@ public class BatchConfig {
     @Bean
     public ItemWriter<Student> excelWriter() {
         return students -> {
-                Map<String, Object> model = new HashMap<>();
-                model.put("Excel Name", "students");
-                model.put("HEADERS", List.of("ID", "NAME", "STANDARD", "ROLLNO", "SUBJECT"));
-                sheetName = (String) model.get("Excel Name");
+            Map<String, Object> model = new HashMap<>();
+            model.put("Excel Name", "students");
+            model.put("HEADERS", List.of("ID", "NAME", "STANDARD", "ROLLNO", "SUBJECT"));
+            sheetName = (String) model.get("Excel Name");
 
-                ExcelAssembler assembler = new ExcelAssembler();
-                List<List<String>> results = assembler.convertStudentsToResults((List<Student>) students);
-                model.put("RESULTS", results);
+            ExcelAssembler assembler = new ExcelAssembler();
+            List<List<String>> results = assembler.convertStudentsToResults((List<Student>) students);
+            model.put("RESULTS", results);
 
-                ExcelWriter excelWriter = new ExcelWriter(workbook);
-                excelWriter.buildExcelDocument(model);
+            ExcelWriter excelWriter = new ExcelWriter(workbook);
+            excelWriter.buildExcelDocument(model);
         };
     }
 
@@ -98,7 +101,7 @@ public class BatchConfig {
             Sheet sheet = workbook.createSheet(sheetName);
             List<String> headers = List.of("ID", "NAME", "STANDARD", "ROLLNO", "SUBJECT");
             ExcelWriter excelWriter = new ExcelWriter(workbook);
-            excelWriter.createHeaderRow(sheet,headers);
+            excelWriter.createHeaderRow(sheet, headers);
 
         } catch (Exception e) {
             log.error("Error creating blank sheet: {}", e.getMessage(), e);
@@ -118,11 +121,10 @@ public class BatchConfig {
             @Override
             public void afterJob(JobExecution jobExecution) {
                 HttpServletResponse response = ResponseHolder.getResponse();
-
                 for (StepExecution stepExecution : jobExecution.getStepExecutions()) {
                     int count = stepExecution.getReadCount();
                     if (count == 0) {
-                       createBlankSheetWithHeaders();
+                        createBlankSheetWithHeaders();
                         break;
                     }
                 }

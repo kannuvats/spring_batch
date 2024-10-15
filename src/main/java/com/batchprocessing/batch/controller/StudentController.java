@@ -26,7 +26,7 @@ public class StudentController {
     private static final Logger logger = LoggerFactory.getLogger(StudentController.class);
 
     @GetMapping("/download/students")
-    public void exportStudents(@RequestParam(name = "schoolId") Long schoolId,HttpServletResponse response) throws Exception {
+    public void exportStudents(@RequestParam(name = "schoolId") Long schoolId, HttpServletResponse response) throws Exception {
         ResponseHolder.setResponse(response);
         JobParameters jobParameters = new JobParametersBuilder()
                 .addLong("time", System.currentTimeMillis())
@@ -36,7 +36,7 @@ public class StudentController {
         try {
             // Run the job
             JobExecution jobExecution = jobLauncher.run(exportStudentJob, jobParameters);
-          //  jobExecution.getExecutionContext().put("response", response);
+            //  jobExecution.getExecutionContext().put("response", response);
             // Check the job status and handle the output
             if (!(jobExecution.getStatus() == BatchStatus.COMPLETED)) {
                 throw new RuntimeException("Job failed with status: " + jobExecution.getStatus());
